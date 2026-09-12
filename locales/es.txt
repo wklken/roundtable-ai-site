@@ -1,19 +1,19 @@
-0|RoundTable AI — Más perspectivas para tu próxima decisión.
+0|Little Roundtable — Más perspectivas para tu próxima decisión.
 1|Ir al contenido
 3|Cómo funciona
 4|Privacidad
 5|Pronto en Mac
-6|RoundTable AI para Mac
+6|Little Roundtable para Mac
 7|Una mirada más amplia.
 8|Un siguiente paso más claro.
 9|Trae una pregunta. Distintas perspectivas de IA
 10|la analizan juntas. Tú decides cómo seguir.
 11|Explora la experiencia
-13|Una conversación real en RoundTable AI. Interfaz en versión preliminar.
+13|Una conversación real en Little Roundtable. Interfaz en versión preliminar.
 14|Haz espacio para otro punto de vista.
 15|Algunas preguntas merecen
 16|más que una respuesta rápida.
-17|¿Lanzar ahora o seguir puliendo? ¿Mantener el rumbo o probar algo nuevo? RoundTable AI deja que tu pregunta se desarrolle: las perspectivas construyen sobre las ideas anteriores y un moderador organiza la conversación.
+17|¿Lanzar ahora o seguir puliendo? ¿Mantener el rumbo o probar algo nuevo? Little Roundtable deja que tu pregunta se desarrolle: las perspectivas construyen sobre las ideas anteriores y un moderador organiza la conversación.
 18|De una pregunta a una dirección.
 19|Tus ideas
 20|toman forma.
@@ -84,7 +84,7 @@
 94|Tus modelos.
 95|Tu decisión.
 96|El historial se queda contigo.
-97|Las conversaciones y los informes se guardan localmente en tu Mac. Sin cuenta de RoundTable AI ni sincronización en la nube que configurar.
+97|Las conversaciones y los informes se guardan localmente en tu Mac. Sin cuenta de Little Roundtable ni sincronización en la nube que configurar.
 98|Conecta el modelo que elijas.
 99|Usa tu propia clave API de un proveedor compatible o un destino local admitido. El proveedor cobra el uso del modelo por separado.
 100|Tú autorizas la conexión.
@@ -114,9 +114,9 @@
 126|Contacto
 127|© 2026 Kunliang Wu. Todos los derechos reservados.
 128|Las perspectivas de IA apoyan tu reflexión. No sustituyen tu criterio.
-129|Ayuda — RoundTable AI
+129|Ayuda — Little Roundtable
 130|Condiciones
-131|RoundTable AI · macOS
+131|Little Roundtable · macOS
 132|Empieza con una pregunta. Añade contexto, elige perspectivas y sigue la conversación y el informe de decisión.
 133|Conectar tu modelo
 134|Abre Ajustes → Modelos. Añade un proveedor compatible, destino, clave API y modelo. Antes de probar o generar, lee el aviso de intercambio de datos con IA y permite la conexión. El proveedor cobra el modelo por separado de la compra de la app.
@@ -131,9 +131,9 @@
 144|para recibir ayuda con la app.
 145|Incluye las versiones de macOS y de la app, lo que esperabas y el mensaje de error. Retira claves API, contraseñas y conversaciones privadas de las capturas o registros.
 146|© 2026 Kunliang Wu ·
-148|Política de privacidad — RoundTable AI
+148|Política de privacidad — Little Roundtable
 149|El historial permanece en tu Mac. Tras tu permiso, las solicitudes de IA van directamente a la conexión elegida.
-150|Actualizado: 12 de septiembre de 2026. Esta política describe RoundTable AI para macOS, de Kunliang Wu.
+150|Actualizado: 12 de septiembre de 2026. Esta política describe Little Roundtable para macOS, de Kunliang Wu.
 151|Datos guardados en tu Mac
 152|La app guarda localmente conversaciones, informes, configuración de expertos, conexiones de modelos y preferencias. No ofrece cuenta propia ni sincronización en la nube. Las claves API se cifran localmente y la clave de cifrado se guarda en el mismo Mac. Esto no cifra todo el historial. Protege tu Mac y tus copias de seguridad.
 153|Datos enviados en solicitudes de IA
@@ -152,9 +152,9 @@
 166|Contacto y actualizaciones
 167|para consultas o solicitudes de privacidad.
 168|Contacta al desarrollador por preguntas sobre la correspondencia de asistencia. Actualizaremos esta página y su fecha cuando cambien las prácticas de la app.
-169|Condiciones de uso — RoundTable AI
+169|Condiciones de uso — Little Roundtable
 170|Una herramienta para pensar con tu propia conexión a un modelo.
-171|Actualizado: 12 de septiembre de 2026. RoundTable AI es ofrecido por Kunliang Wu.
+171|Actualizado: 12 de septiembre de 2026. Little Roundtable es ofrecido por Kunliang Wu.
 172|Licencia
 173|La app se licencia bajo
 174|el acuerdo estándar de licencia de usuario final de Apple

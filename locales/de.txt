@@ -1,19 +1,19 @@
-0|RoundTable AI — Mehr Perspektiven für deine nächste Entscheidung.
+0|Little Roundtable — Mehr Perspektiven für deine nächste Entscheidung.
 1|Zum Inhalt springen
 3|So funktioniert’s
 4|Datenschutz
 5|Bald für Mac
-6|RoundTable AI für Mac
+6|Little Roundtable für Mac
 7|Mehr Perspektiven.
 8|Ein klarer nächster Schritt.
 9|Bring deine Frage mit. Verschiedene KI-Perspektiven
 10|denken gemeinsam weiter. Du entscheidest, was folgt.
 11|Entdecke den Ablauf
-13|Eine echte Diskussion in RoundTable AI. Vorschau der Oberfläche.
+13|Eine echte Diskussion in Little Roundtable. Vorschau der Oberfläche.
 14|Raum für einen anderen Blickwinkel.
 15|Manche Fragen verdienen
 16|mehr als eine schnelle Antwort.
-17|Jetzt starten oder weiter verfeinern? Kurs halten oder Neues versuchen? RoundTable AI gibt deiner Frage Raum: Perspektiven bauen aufeinander auf, und eine Moderation führt die Diskussion zusammen.
+17|Jetzt starten oder weiter verfeinern? Kurs halten oder Neues versuchen? Little Roundtable gibt deiner Frage Raum: Perspektiven bauen aufeinander auf, und eine Moderation führt die Diskussion zusammen.
 18|Von einer Frage zu einer Richtung.
 19|Deine Gedanken
 20|nehmen Gestalt an.
@@ -114,9 +114,9 @@
 126|Kontakt
 127|© 2026 Kunliang Wu. Alle Rechte vorbehalten.
 128|KI-Perspektiven unterstützen dein Denken. Sie ersetzen nicht dein Urteil.
-129|Hilfe — RoundTable AI
+129|Hilfe — Little Roundtable
 130|Bedingungen
-131|RoundTable AI · macOS
+131|Little Roundtable · macOS
 132|Beginne mit einer Frage. Ergänze Kontext, wähle Perspektiven und verfolge Diskussion und Entscheidungsbericht.
 133|Modell verbinden
 134|Öffne Einstellungen → Modelle. Ergänze kompatiblen Anbieter, Endpunkt, API-Schlüssel und Modell. Lies vor Tests oder Generierung den Hinweis zur KI-Datenweitergabe und erlaube die Verbindung. Der Anbieter berechnet Modellnutzung getrennt vom App-Kauf.
@@ -131,9 +131,9 @@
 144|für Hilfe zur App.
 145|Nenne macOS-Version, App-Version, erwartetes Verhalten und Fehlermeldung. Entferne API-Schlüssel, Passwörter und private Gesprächsinhalte aus Bildern oder Protokollen.
 146|© 2026 Kunliang Wu ·
-148|Datenschutzerklärung — RoundTable AI
+148|Datenschutzerklärung — Little Roundtable
 149|Der Diskussionsverlauf bleibt auf deinem Mac. Mit deiner Erlaubnis gehen KI-Anfragen direkt an die gewählte Modellverbindung.
-150|Stand: 12. September 2026. Diese Richtlinie beschreibt die macOS-App RoundTable AI von Kunliang Wu.
+150|Stand: 12. September 2026. Diese Richtlinie beschreibt die macOS-App Little Roundtable von Kunliang Wu.
 151|Lokal gespeicherte Daten
 152|Die App speichert Gespräche, Berichte, Experteneinstellungen, Modellverbindungen und Präferenzen lokal. Sie bietet kein App-Konto oder Cloud-Synchronisierung. API-Schlüssel werden lokal verschlüsselt; der Verschlüsselungsschlüssel liegt auf demselben Mac. Der gesamte Gesprächsverlauf wird dadurch nicht verschlüsselt. Schütze Mac und Backups entsprechend.
 153|Daten in KI-Anfragen
@@ -152,9 +152,9 @@
 166|Kontakt und Änderungen
 167|für Datenschutzfragen oder Anfragen.
 168|Kontaktiere den Entwickler bei Anliegen zur Supportkorrespondenz. Bei Änderungen der App-Praktiken aktualisieren wir diese Seite samt Datum.
-169|Nutzungsbedingungen — RoundTable AI
+169|Nutzungsbedingungen — Little Roundtable
 170|Ein Werkzeug für deine Gedanken, mit deiner eigenen Modellverbindung.
-171|Stand: 12. September 2026. RoundTable AI wird von Kunliang Wu bereitgestellt.
+171|Stand: 12. September 2026. Little Roundtable wird von Kunliang Wu bereitgestellt.
 172|Lizenz
 173|Die App wird lizenziert unter
 174|Apples Standard-Endbenutzer-Lizenzvertrag

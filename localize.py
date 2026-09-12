@@ -12,13 +12,13 @@ LANGUAGES = {'en': 'English', 'zh-Hans': '简体中文', 'ja': '日本語', 'ko'
 # Brand names, numbers, speaker initials and symbols do not require translation.
 INVARIANT = {2, 12, 22, 25, 28, 33, 39, 41, 44, 47, 51, 103, 108, 143, 147}
 LABELS = {
- 'en': ['Language', 'Main navigation', 'RoundTable AI home', 'Discussion stages', 'Illustrative decision report', 'RoundTable AI app icon'],
- 'zh-Hans': ['语言', '主导航', 'RoundTable AI 首页', '讨论阶段', '决策报告示例', 'RoundTable AI 应用图标'],
- 'ja': ['言語', 'メインナビゲーション', 'RoundTable AI ホーム', '議論の段階', '意思決定レポートの例', 'RoundTable AI アプリアイコン'],
- 'ko': ['언어', '주 탐색', 'RoundTable AI 홈', '토론 단계', '의사결정 보고서 예시', 'RoundTable AI 앱 아이콘'],
- 'de': ['Sprache', 'Hauptnavigation', 'RoundTable AI Startseite', 'Diskussionsphasen', 'Beispielhafter Entscheidungsbericht', 'RoundTable AI App-Symbol'],
- 'fr': ['Langue', 'Navigation principale', 'Accueil RoundTable AI', 'Étapes de discussion', 'Exemple de rapport de décision', 'Icône de RoundTable AI'],
- 'es': ['Idioma', 'Navegación principal', 'Inicio de RoundTable AI', 'Etapas de la conversación', 'Ejemplo de informe de decisión', 'Icono de RoundTable AI'],
+ 'en': ['Language', 'Main navigation', 'Little Roundtable home', 'Discussion stages', 'Illustrative decision report', 'Little Roundtable app icon'],
+ 'zh-Hans': ['语言', '主导航', 'Little Roundtable 首页', '讨论阶段', '决策报告示例', 'Little Roundtable 应用图标'],
+ 'ja': ['言語', 'メインナビゲーション', 'Little Roundtable ホーム', '議論の段階', '意思決定レポートの例', 'Little Roundtable アプリアイコン'],
+ 'ko': ['언어', '주 탐색', 'Little Roundtable 홈', '토론 단계', '의사결정 보고서 예시', 'Little Roundtable 앱 아이콘'],
+ 'de': ['Sprache', 'Hauptnavigation', 'Little Roundtable Startseite', 'Diskussionsphasen', 'Beispielhafter Entscheidungsbericht', 'Little Roundtable App-Symbol'],
+ 'fr': ['Langue', 'Navigation principale', 'Accueil Little Roundtable', 'Étapes de discussion', 'Exemple de rapport de décision', 'Icône de Little Roundtable'],
+ 'es': ['Idioma', 'Navegación principal', 'Inicio de Little Roundtable', 'Etapas de la conversación', 'Ejemplo de informe de decisión', 'Icono de Little Roundtable'],
 }
 
 
@@ -50,7 +50,7 @@ class LocalizedHTML(HTMLParser):
   super().__init__(convert_charrefs=True)
   self.lang, self.route, self.translations = lang, route, translations
   self.output = []
-  self.attr_text = dict(zip(['Main navigation', 'Main', 'RoundTable AI home', 'Discussion stages', 'Illustrative decision report', 'RoundTable AI app icon'], [LABELS[lang][1], LABELS[lang][1], *LABELS[lang][2:]]))
+  self.attr_text = dict(zip(['Main navigation', 'Main', 'Little Roundtable home', 'Discussion stages', 'Illustrative decision report', 'Little Roundtable app icon'], [LABELS[lang][1], LABELS[lang][1], *LABELS[lang][2:]]))
   self.description = translations[english[9]] + ' ' + translations[english[10]]
   self.image_alt = translations[english[13]]
 
@@ -62,7 +62,7 @@ class LocalizedHTML(HTMLParser):
   if tag == 'html':
    attrs.update(lang=self.lang, **{'data-locale': self.lang, 'data-route': self.route})
   if tag == 'meta' and attrs.get('name') == 'description':
-   attrs['content'] = self.description if not self.route else self.translations[{'support/':'Support', 'privacy/':'Privacy policy', 'terms/':'Terms of use'}[self.route]] + ' — RoundTable AI'
+   attrs['content'] = self.description if not self.route else self.translations[{'support/':'Support', 'privacy/':'Privacy policy', 'terms/':'Terms of use'}[self.route]] + ' — Little Roundtable'
   if tag == 'meta' and attrs.get('name') == 'theme-color':
    attrs['content'] = '#fcfaef'
   if tag == 'link' and attrs.get('rel') == 'canonical':
@@ -73,7 +73,7 @@ class LocalizedHTML(HTMLParser):
   for attr in ['aria-label', 'alt', 'title']:
    if attrs.get(attr) in self.attr_text:
     attrs[attr] = self.attr_text[attrs[attr]]
-   elif attr == 'alt' and attrs.get(attr, '').startswith('RoundTable AI on Mac:'):
+   elif attr == 'alt' and attrs.get(attr, '').startswith('Little Roundtable on Mac:'):
     attrs[attr] = self.image_alt
   self.output.append('<' + tag + ''.join(' ' + key + ('="' + escape(value, quote=True) + '"' if value is not None else '') for key, value in attrs.items()) + '>')
 

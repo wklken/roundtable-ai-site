@@ -1,4 +1,4 @@
-# RoundTable AI website
+# Little Roundtable website
 
 Product landing page, support, privacy policy and terms.
 
