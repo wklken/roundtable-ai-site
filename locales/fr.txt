@@ -92,8 +92,8 @@
 102|Lire la politique de confidentialité
 104|Votre prochaine décision.
 105|Mûrement réfléchie.
-106|Cinq discussions terminées, gratuites.
-107|Un achat pour des discussions illimitées.
+106|Un achat unique.
+107|Des discussions illimitées avec l’accès permanent.
 109|Accès permanent · Sans abonnement récurrent
 110|Bientôt sur le Mac App Store
 111|Téléchargement pas encore disponible. Nécessite macOS 15 ou ultérieur.
@@ -104,8 +104,8 @@
 116|Votre question devient une discussion modérée. Les perspectives interviennent à tour de rôle, lisent les contributions précédentes et examinent les compromis. Le modérateur produit ensuite un rapport de décision. Plusieurs perspectives ne garantissent pas l’exactitude : vérifiez les informations importantes.
 117|L’accès permanent inclut-il les frais d’IA ?
 118|Non. L’achat unique débloque les discussions illimitées dans l’app. Vous fournissez une connexion à un modèle compatible, dont le fournisseur facture l’usage séparément.
-119|Que se passe-t-il après les cinq discussions gratuites ?
-120|L’achat permanent facultatif débloque d’autres discussions. L’historique existant et l’export Markdown restent accessibles sans achat. Une discussion compte une fois au premier rapport enregistré ; la poursuivre ne consomme pas d’usage gratuit supplémentaire.
+119|Est-ce un abonnement ?
+120|Non. L’accès permanent est un achat unique, pas un abonnement récurrent. L’usage du fournisseur IA est facturé séparément.
 121|Puis-je l’utiliser pour des décisions importantes ?
 122|Utilisez l’app pour organiser votre réflexion et trouver les bonnes questions. L’IA peut se tromper ou être biaisée. Vérifiez les affirmations importantes et consultez un professionnel qualifié si nécessaire. La décision finale vous appartient.
 123|Assistance
@@ -124,8 +124,8 @@
 136|Vérifiez adresse, modèle, clé API, solde et réseau. Si vous avez refusé ou retiré l’autorisation, consultez Réglages → Modèles. Mettez la discussion en pause avant de modifier le contexte, puis reprenez. Une panne ou une limite du fournisseur peut interrompre la génération.
 137|Restaurer l’accès permanent
 138|Ouvrez Réglages → Accès permanent, puis Restaurer les achats. Utilisez le compte Apple de l’achat. L’app vérifie celui-ci via StoreKit. Un achat remboursé ou révoqué ne donne plus droit aux discussions illimitées.
-139|Discussions gratuites et historique
-140|Cinq discussions terminées sont gratuites. Une discussion compte une fois au premier rapport enregistré ; la poursuivre ne consomme pas d’autre usage. L’historique existant et l’export Markdown restent disponibles sans achat.
+139|Discussions et historique
+140|L’accès permanent débloque les discussions illimitées. Vous pouvez consulter votre historique et exporter les rapports en Markdown.
 141|Contacter l’assistance
 142|Écrivez à
 144|pour obtenir de l’aide sur l’app.
@@ -160,7 +160,7 @@
 174|le contrat de licence utilisateur final standard d’Apple
 175|. Ces notes expliquent l’app et l’achat ; elles ne remplacent pas ce contrat et ne limitent pas vos droits légaux de consommateur.
 176|Accès permanent
-177|Cinq discussions terminées sont gratuites. Un achat unique facultatif et non consommable débloque les discussions illimitées. Ce n’est pas un abonnement récurrent. L’App Store affiche prix et taxes applicables à votre région avant l’achat. Restaurez avec le même compte Apple. Un remboursement ou une révocation retire les droits payants.
+177|Un achat unique et non consommable débloque les discussions illimitées. Ce n’est pas un abonnement récurrent. L’App Store affiche prix et taxes applicables à votre région avant l’achat. Restaurez avec le même compte Apple. Un remboursement ou une révocation retire les droits payants.
 178|L’achat n’inclut ni crédits de modèle, ni service IA hébergé, ni garantie de disponibilité d’un fournisseur tiers. Vous fournissez la clé API nécessaire et payez ses frais séparément. Historique et export Markdown restent accessibles sans déblocage.
 179|Résultats IA et décisions
 180|Perspectives et rapports du modérateur sont générés par IA, pas par des experts humains indépendants. Ils peuvent contenir erreurs, hypothèses non étayées et biais partagés. Vérifiez les informations importantes et décidez vous-même. L’app ne remplace aucun conseil médical, juridique, financier ou professionnel qualifié et n’est pas un service d’urgence.

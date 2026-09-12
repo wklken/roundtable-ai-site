@@ -92,8 +92,8 @@
 102|Datenschutzerklärung lesen
 104|Deine nächste Entscheidung.
 105|Gut durchdacht.
-106|Fünf abgeschlossene Diskussionen gratis.
-107|Ein Kauf. Unbegrenzte Diskussionen.
+106|Einmal kaufen.
+107|Unbegrenzte Diskussionen mit dauerhaftem Zugriff.
 109|Dauerhafte Freischaltung · Kein wiederkehrendes Abo
 110|Bald im Mac App Store
 111|Noch nicht zum Download verfügbar. Erfordert macOS 15 oder neuer.
@@ -104,8 +104,8 @@
 116|Deine Frage wird zur moderierten Diskussion. Perspektiven wechseln sich ab, lesen frühere Beiträge und prüfen Vor- und Nachteile. Danach erstellt die Moderation einen Entscheidungsbericht. Mehrere Perspektiven garantieren keine Richtigkeit. Prüfe wichtige Informationen.
 117|Ist die KI-Nutzung im Kauf enthalten?
 118|Nein. Der einmalige Kauf schaltet unbegrenzte Diskussionen in der App frei. Du stellst eine kompatible Modellverbindung bereit; der Anbieter berechnet die Nutzung separat.
-119|Was passiert nach den fünf kostenlosen Diskussionen?
-120|Der optionale Einmalkauf ermöglicht weitere Diskussionen. Vorhandener Verlauf und Markdown-Export bleiben auch ohne Kauf verfügbar. Eine Diskussion zählt beim ersten gespeicherten Bericht einmal; ihre Fortsetzung verbraucht keine weitere freie Nutzung.
+119|Ist das ein Abonnement?
+120|Nein. Dauerhafter Zugriff wird einmalig gekauft und ist kein wiederkehrendes Abo. Die KI-Nutzung berechnet dein Anbieter separat.
 121|Kann ich damit wichtige Entscheidungen treffen?
 122|Nutze die App, um Gedanken zu ordnen und wichtige Fragen zu finden. KI kann falsch oder voreingenommen sein. Prüfe wichtige Aussagen und hole bei Bedarf qualifizierten fachlichen Rat ein. Die endgültige Entscheidung triffst du.
 123|Hilfe
@@ -124,8 +124,8 @@
 136|Prüfe Endpunkt, Modell, API-Schlüssel, Guthaben und Netzwerk. Bei zuvor verweigerter oder widerrufener Erlaubnis prüfe Einstellungen → Modelle. Pausiere vor Kontextänderungen und setze danach fort. Anbieterausfälle oder Ratenbegrenzungen können die Generierung unterbrechen.
 137|Dauerhaften Zugriff wiederherstellen
 138|Öffne Einstellungen → Dauerhafte Freischaltung und wähle Käufe wiederherstellen. Verwende den Apple Account des Kaufs. Die App prüft Käufe mit StoreKit. Erstattete oder widerrufene Käufe gewähren keine unbegrenzten Diskussionen mehr.
-139|Kostenlose Diskussionen und Verlauf
-140|Fünf abgeschlossene Diskussionen sind kostenlos. Jede zählt beim ersten gespeicherten Bericht einmal; Fortsetzungen verbrauchen keine weitere Nutzung. Verlauf und Markdown-Export bleiben ohne Kauf verfügbar.
+139|Diskussionen und Verlauf
+140|Dauerhafter Zugriff schaltet unbegrenzte Diskussionen frei. Du kannst deinen Verlauf erneut lesen und Berichte als Markdown exportieren.
 141|Support kontaktieren
 142|Schreibe an
 144|für Hilfe zur App.
@@ -160,7 +160,7 @@
 174|Apples Standard-Endbenutzer-Lizenzvertrag
 175|. Diese Produkthinweise erläutern App und Kauf. Sie ersetzen den Vertrag nicht und schränken deine gesetzlichen Verbraucherrechte nicht ein.
 176|Dauerhafte Freischaltung
-177|Fünf abgeschlossene Diskussionen sind gratis. Ein optionaler einmaliger, nicht verbrauchbarer Kauf schaltet unbegrenzte Diskussionen frei. Es ist kein wiederkehrendes Abo. Vor dem Kauf zeigt der App Store regionale Preise und Steuern. Stelle den Kauf mit demselben Apple Account wieder her. Erstattung oder Widerruf entzieht die bezahlte Berechtigung.
+177|Ein einmaliger, nicht verbrauchbarer Kauf schaltet unbegrenzte Diskussionen frei. Es ist kein wiederkehrendes Abo. Vor dem Kauf zeigt der App Store regionale Preise und Steuern. Stelle den Kauf mit demselben Apple Account wieder her. Erstattung oder Widerruf entzieht die bezahlte Berechtigung.
 178|Enthalten sind weder Modellguthaben noch ein gehosteter KI-Dienst oder eine Garantie für die Verfügbarkeit Dritter. Du stellst nötige API-Schlüssel bereit und zahlst Anbieterkosten separat. Verlauf und Markdown-Export bleiben ohne Freischaltung verfügbar.
 179|KI-Ausgaben und Entscheidungen
 180|Perspektiven und Moderationsberichte stammen von KI, nicht von unabhängigen menschlichen Fachleuten. Sie können Fehler, unbelegte Annahmen und gemeinsame Verzerrungen enthalten. Prüfe Wichtiges und entscheide selbst. Die App ersetzt keine qualifizierte medizinische, rechtliche, finanzielle oder andere Fachberatung und ist kein Notfalldienst.

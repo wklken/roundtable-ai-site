@@ -92,8 +92,8 @@
 102|Lee la política de privacidad
 104|Tu próxima decisión.
 105|Bien pensada.
-106|Cinco conversaciones completas gratis.
-107|Una compra para conversaciones ilimitadas.
+106|Una sola compra.
+107|Conversaciones ilimitadas con acceso permanente.
 109|Acceso permanente · Sin suscripción recurrente
 110|Próximamente en el Mac App Store
 111|Aún no disponible para descargar. Requiere macOS 15 o posterior.
@@ -104,8 +104,8 @@
 116|Tu pregunta se convierte en una conversación moderada. Las perspectivas intervienen por turnos, leen lo anterior y examinan las ventajas e inconvenientes. Después, el moderador crea un informe de decisión. Varias perspectivas no garantizan exactitud: verifica la información importante.
 117|¿El acceso permanente incluye el uso de IA?
 118|No. La compra única desbloquea conversaciones ilimitadas en la app. Tú aportas una conexión compatible y el proveedor cobra su uso por separado.
-119|¿Qué ocurre después de las cinco conversaciones gratis?
-120|La compra permanente opcional desbloquea más conversaciones. El historial existente y la exportación a Markdown siguen disponibles sin comprar. Cada conversación cuenta una vez al guardar su primer informe; continuarla no consume otro uso gratuito.
+119|¿Es una suscripción?
+120|No. El acceso permanente es una compra única, no una suscripción recurrente. El proveedor cobra el uso de IA por separado.
 121|¿Puedo usarla para decisiones importantes?
 122|Úsala para ordenar ideas y descubrir preguntas que vale la pena hacer. La IA puede equivocarse o tener sesgos. Verifica las afirmaciones importantes y consulta a profesionales cualificados cuando corresponda. Tú tomas la decisión final.
 123|Ayuda
@@ -124,8 +124,8 @@
 136|Revisa el destino, modelo, clave API, saldo y red. Si rechazaste o retiraste el permiso, compruébalo en Ajustes → Modelos. Pausa la conversación antes de cambiar su contexto y continúa cuando esté listo. Fallos o límites del proveedor pueden interrumpir la generación.
 137|Restaurar el acceso permanente
 138|Abre Ajustes → Acceso permanente y elige Restaurar compras. Usa la cuenta de Apple con la que compraste. La app verifica la compra mediante StoreKit. Una compra reembolsada o revocada ya no da acceso ilimitado.
-139|Conversaciones gratis e historial
-140|Puedes completar cinco conversaciones gratis. Cada una cuenta al guardar el primer informe; continuarla no consume otro uso. El historial existente y la exportación a Markdown están disponibles sin comprar.
+139|Conversaciones e historial
+140|El acceso permanente desbloquea conversaciones ilimitadas. Puedes consultar tu historial y exportar los informes en Markdown.
 141|Contactar con asistencia
 142|Escribe a
 144|para recibir ayuda con la app.
@@ -160,7 +160,7 @@
 174|el acuerdo estándar de licencia de usuario final de Apple
 175|. Estas notas explican la app y la compra; no sustituyen ese acuerdo ni limitan tus derechos conforme a la legislación de consumo aplicable.
 176|Acceso permanente
-177|Cinco conversaciones completas son gratis. Una compra única opcional y no consumible desbloquea conversaciones ilimitadas. No es una suscripción recurrente. El App Store muestra el precio y los impuestos de tu región antes de comprar. Restaura con la misma cuenta de Apple. El reembolso o la revocación retira el derecho de pago.
+177|Una compra única y no consumible desbloquea conversaciones ilimitadas. No es una suscripción recurrente. El App Store muestra el precio y los impuestos de tu región antes de comprar. Restaura con la misma cuenta de Apple. El reembolso o la revocación retira el derecho de pago.
 178|La compra no incluye créditos de modelos, un servicio de IA alojado ni garantía de disponibilidad de terceros. Tú aportas la clave API necesaria y pagas sus gastos aparte. El historial y la exportación Markdown siguen disponibles sin desbloqueo.
 179|Resultados de IA y decisiones
 180|Las perspectivas y los informes del moderador los genera IA, no expertos humanos independientes. Pueden contener errores, supuestos sin fundamento o sesgos comunes. Verifica lo importante y decide por tu cuenta. La app no sustituye asesoramiento médico, jurídico, financiero u otro profesional cualificado, ni es un servicio de emergencia.
