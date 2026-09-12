@@ -1,0 +1,174 @@
+0|RoundTable AI — Plus de perspectives pour votre prochaine décision.
+1|Aller au contenu
+3|Découvrir
+4|Confidentialité
+5|Bientôt sur Mac
+6|RoundTable AI pour Mac
+7|Un autre regard.
+8|Une suite plus claire.
+9|Posez une question. Différents points de vue IA
+10|l’examinent ensemble. À vous de choisir la suite.
+11|Découvrir l’expérience
+13|Une véritable discussion dans RoundTable AI. Interface en aperçu.
+14|Faites une place à un autre point de vue.
+15|Certaines questions méritent
+16|plus qu’une réponse rapide.
+17|Lancer maintenant ou peaufiner encore ? Garder le cap ou essayer autre chose ? RoundTable AI laisse votre question se développer : les perspectives se répondent et un modérateur organise le tout.
+18|D’une question à une direction.
+19|Votre réflexion
+20|prend forme.
+21|Suivez un même exemple, de la première question à l’action suivante.
+23|Partez de votre situation.
+24|Posez votre question et précisez ce qui compte.
+26|Ouvrez la discussion.
+27|Examinez une même idée sous différents angles.
+29|Trouvez la prochaine étape.
+30|Transformez la discussion en rapport de décision.
+31|Un projet personnel. Un vrai choix.
+32|Exemple illustratif
+34|Lancer un essai pilote.
+35|Ou continuer à peaufiner ?
+36|Un prototype fonctionnel. Six heures par semaine.
+37|Trois personnes prêtes à l’essayer.
+38|Dois-je lancer un petit essai maintenant ou peaufiner encore pendant un mois ?
+40|Votre question, votre contexte, vos priorités.
+42|Le regard du créateur
+43|Un petit essai peut révéler ce qu’un mois de finition ne dira pas : est-ce que les gens l’utilisent ?
+45|Le regard sceptique
+46|À condition que le parcours principal fonctionne déjà. Que doivent accomplir les trois testeurs ?
+48|Le regard pragmatique
+49|Définissez une action, limitez le temps et fixez vos critères d’arrêt avant de commencer.
+50|Perspectives IA illustratives. Les interventions répondent aux idées précédentes.
+52|Rapport de décision
+53|Testez l’essentiel.
+54|Puis décidez.
+55|Un essai de deux semaines pour apprendre.
+56|Essayer
+57|Invitez trois testeurs à accomplir une action essentielle.
+58|Observer
+59|Y arrivent-ils ? Reviennent-ils spontanément ?
+60|Reconsidérer
+61|Si les signaux sont faibles, échangez avec eux avant de développer davantage.
+62|Résumé illustratif. La décision vous appartient.
+63|Qu’est-ce qui peut marcher ?
+64|Que manque-t-il ?
+65|Qu’est-ce qui compte le plus ?
+66|Votre
+67|question.
+68|Plusieurs angles. Une même conversation.
+69|Les idées se croisent.
+70|Les angles morts apparaissent.
+71|Chaque perspective connaît les interventions précédentes. Elle peut questionner une hypothèse, approfondir une idée ou proposer une autre voie.
+72|Le modérateur fait ressortir accords, objections et points à étayer. Faites une pause, ajoutez du contexte et poursuivez au fil de votre réflexion.
+73|Les perspectives IA peuvent partager des biais et se tromper. Ce ne sont pas des experts humains indépendants.
+74|Quelque chose à emporter.
+75|Une prochaine étape.
+76|Et les raisons
+77|de la choisir.
+78|Votre rapport de décision clarifie l’essentiel : ce qui compte, les divergences et ce que vous pouvez essayer ensuite.
+79|Revenez sur le raisonnement, poursuivez la discussion et exportez votre rapport en Markdown pour le partager.
+80|Une petite expérience,
+81|avec un objectif clair.
+82|Lancez un essai de deux semaines si l’expérience essentielle fonctionne déjà. Privilégiez l’apprentissage avant la finition visuelle.
+83|Ce qui compte
+84|Des retours utiles, dans vos six heures disponibles par semaine.
+85|L’objection la plus forte
+86|Un petit groupe peut être insuffisant. Choisissez des testeurs capables de donner un avis franc.
+87|La prochaine étape
+88|Choisissez une action essentielle à observer.
+89|Limitez le temps consacré à l’essai à douze heures au total.
+90|Évaluez les actions terminées et les retours spontanés.
+91|Extrait de rapport illustratif, sans garantie de résultat.
+92|Une réflexion personnelle. Votre contrôle.
+93|Votre Mac.
+94|Vos modèles.
+95|Votre choix.
+96|L’historique reste près de vous.
+97|Discussions et rapports sont stockés localement sur votre Mac. Aucun compte RoundTable AI ni synchronisation cloud à configurer.
+98|Connectez le modèle choisi.
+99|Utilisez votre clé API d’un fournisseur compatible ou un point de connexion local pris en charge. Le fournisseur facture séparément l’usage du modèle.
+100|Vous autorisez la connexion.
+101|Les requêtes IA partent directement vers la destination choisie après votre autorisation. Consultez-la ou retirez-la dans les réglages. Les règles de votre fournisseur s’appliquent.
+102|Lire la politique de confidentialité
+104|Votre prochaine décision.
+105|Mûrement réfléchie.
+106|Cinq discussions terminées, gratuites.
+107|Un achat pour des discussions illimitées.
+109|Accès permanent · Sans abonnement récurrent
+110|Bientôt sur le Mac App Store
+111|Téléchargement pas encore disponible. Nécessite macOS 15 ou ultérieur.
+112|Prix de base américain. Prix et taxes peuvent varier selon le pays.
+113|Votre propre clé API est nécessaire. Frais du fournisseur IA en supplément.
+114|Quelques précisions.
+115|Quelle différence avec une seule réponse IA ?
+116|Votre question devient une discussion modérée. Les perspectives interviennent à tour de rôle, lisent les contributions précédentes et examinent les compromis. Le modérateur produit ensuite un rapport de décision. Plusieurs perspectives ne garantissent pas l’exactitude : vérifiez les informations importantes.
+117|L’accès permanent inclut-il les frais d’IA ?
+118|Non. L’achat unique débloque les discussions illimitées dans l’app. Vous fournissez une connexion à un modèle compatible, dont le fournisseur facture l’usage séparément.
+119|Que se passe-t-il après les cinq discussions gratuites ?
+120|L’achat permanent facultatif débloque d’autres discussions. L’historique existant et l’export Markdown restent accessibles sans achat. Une discussion compte une fois au premier rapport enregistré ; la poursuivre ne consomme pas d’usage gratuit supplémentaire.
+121|Puis-je l’utiliser pour des décisions importantes ?
+122|Utilisez l’app pour organiser votre réflexion et trouver les bonnes questions. L’IA peut se tromper ou être biaisée. Vérifiez les affirmations importantes et consultez un professionnel qualifié si nécessaire. La décision finale vous appartient.
+123|Assistance
+124|Politique de confidentialité
+125|Conditions d’utilisation
+126|Contact
+127|© 2026 Kunliang Wu. Tous droits réservés.
+128|Les perspectives IA accompagnent votre réflexion. Elles ne remplacent pas votre jugement.
+129|Assistance — RoundTable AI
+130|Conditions
+131|RoundTable AI · macOS
+132|Commencez par une question. Ajoutez du contexte, choisissez des perspectives, puis consultez la discussion et le rapport de décision.
+133|Connecter votre modèle
+134|Ouvrez Réglages → Modèles. Ajoutez fournisseur compatible, adresse de connexion, clé API et modèle. Avant tout test ou génération, lisez l’avis de partage des données IA et autorisez la connexion. Le fournisseur facture les modèles séparément de l’achat de l’app.
+135|Une requête échoue ou se bloque
+136|Vérifiez adresse, modèle, clé API, solde et réseau. Si vous avez refusé ou retiré l’autorisation, consultez Réglages → Modèles. Mettez la discussion en pause avant de modifier le contexte, puis reprenez. Une panne ou une limite du fournisseur peut interrompre la génération.
+137|Restaurer l’accès permanent
+138|Ouvrez Réglages → Accès permanent, puis Restaurer les achats. Utilisez le compte Apple de l’achat. L’app vérifie celui-ci via StoreKit. Un achat remboursé ou révoqué ne donne plus droit aux discussions illimitées.
+139|Discussions gratuites et historique
+140|Cinq discussions terminées sont gratuites. Une discussion compte une fois au premier rapport enregistré ; la poursuivre ne consomme pas d’autre usage. L’historique existant et l’export Markdown restent disponibles sans achat.
+141|Contacter l’assistance
+142|Écrivez à
+144|pour obtenir de l’aide sur l’app.
+145|Indiquez les versions de macOS et de l’app, le résultat attendu et le message d’erreur. Retirez clés API, mots de passe et conversations privées des images et journaux.
+146|© 2026 Kunliang Wu ·
+148|Confidentialité — RoundTable AI
+149|L’historique des discussions reste sur votre Mac. Avec votre autorisation, les requêtes IA vont directement à la connexion choisie.
+150|Mise à jour : 12 septembre 2026. Cette politique décrit RoundTable AI pour macOS, fourni par Kunliang Wu.
+151|Données stockées sur votre Mac
+152|L’app stocke localement conversations, rapports, paramètres des experts, connexions aux modèles et préférences. Aucun compte d’app ni synchronisation cloud n’est proposé. Les clés API sont chiffrées localement ; la clé de chiffrement reste sur le même Mac. Cela ne chiffre pas tout l’historique. Protégez votre Mac et vos sauvegardes.
+153|Données envoyées aux modèles
+154|Après autorisation, l’app envoie directement à la destination les données nécessaires à la découverte des modèles et à la génération. Cela peut inclure question, contexte, historique, réponses précédentes, instructions des experts et paramètres du modèle. La clé API sert à l’authentification. Le fournisseur reçoit aussi des informations de connexion comme l’adresse IP. Les intervenants suivants peuvent recevoir les échanges antérieurs comme contexte.
+155|L’écran d’autorisation identifie la connexion et sa destination. Vous choisissez le fournisseur, y compris une destination locale compatible si prise en charge. Le développeur ne relaie pas ces requêtes et ne reçoit ni conversations ni clés via un serveur de l’app.
+156|Traitement par votre fournisseur
+157|Chaque fournisseur applique ses conditions et sa politique de confidentialité. Conservation, entraînement, association au compte et pays de traitement dépendent du fournisseur, de la destination et des réglages du compte. L’app ne garantit pas une conservation nulle et ne peut empêcher de conserver les données déjà reçues. Consultez ces règles avant d’envoyer des données personnelles ou confidentielles.
+158|Vos choix
+159|Vous pouvez refuser l’autorisation IA, la consulter dans Réglages → Modèles ou la retirer pour empêcher de futures requêtes. Le retrait n’annule ni les transmissions terminées ni les requêtes en cours. Vous pouvez exporter les rapports et supprimer les conversations locales. Supprimez séparément les exports et sauvegardes inutiles. Contactez le fournisseur pour les données qu’il conserve.
+160|Achats
+161|Apple traite achats et paiements. L’app lit les informations vérifiées de transaction et de droits StoreKit pour débloquer ou restaurer les fonctions. Le développeur ne reçoit pas de données de carte bancaire via l’app. Les services Apple relèvent de sa propre politique de confidentialité.
+162|Autres connexions réseau
+163|Les icônes des fournisseurs peuvent être téléchargées depuis GitHub et mises en cache localement. Ces requêtes transmettent des informations réseau usuelles à l’hébergeur, sans clés API ni texte des discussions. Les liens externes s’ouvrent dans le navigateur. L’app ne contient ni publicité ni SDK d’analyse tiers.
+164|Assistance et ce site
+165|Si vous contactez l’assistance, le développeur reçoit votre message et les coordonnées fournies pour traiter votre demande. N’envoyez ni clés API ni mots de passe. Ce site n’a ni publicité, ni scripts d’analyse, ni formulaire d’envoi de conversations. L’hébergeur traite les requêtes réseau habituelles pour servir les pages. Votre choix de langue est enregistré dans ce navigateur pour vos prochaines visites.
+166|Contact et mises à jour
+167|pour toute question ou demande relative à la confidentialité.
+168|Contactez le développeur pour les demandes concernant les échanges avec l’assistance. Nous actualiserons cette page et sa date si les pratiques de l’app changent.
+169|Conditions d’utilisation — RoundTable AI
+170|Un outil pour réfléchir, avec votre propre connexion à un modèle.
+171|Mise à jour : 12 septembre 2026. RoundTable AI est fourni par Kunliang Wu.
+172|Licence
+173|L’app est concédée sous
+174|le contrat de licence utilisateur final standard d’Apple
+175|. Ces notes expliquent l’app et l’achat ; elles ne remplacent pas ce contrat et ne limitent pas vos droits légaux de consommateur.
+176|Accès permanent
+177|Cinq discussions terminées sont gratuites. Un achat unique facultatif et non consommable débloque les discussions illimitées. Ce n’est pas un abonnement récurrent. L’App Store affiche prix et taxes applicables à votre région avant l’achat. Restaurez avec le même compte Apple. Un remboursement ou une révocation retire les droits payants.
+178|L’achat n’inclut ni crédits de modèle, ni service IA hébergé, ni garantie de disponibilité d’un fournisseur tiers. Vous fournissez la clé API nécessaire et payez ses frais séparément. Historique et export Markdown restent accessibles sans déblocage.
+179|Résultats IA et décisions
+180|Perspectives et rapports du modérateur sont générés par IA, pas par des experts humains indépendants. Ils peuvent contenir erreurs, hypothèses non étayées et biais partagés. Vérifiez les informations importantes et décidez vous-même. L’app ne remplace aucun conseil médical, juridique, financier ou professionnel qualifié et n’est pas un service d’urgence.
+181|Vos contenus et connexions
+182|Vous conservez vos droits sur les contenus fournis. N’envoyez que ceux que vous avez le droit d’utiliser et de partager avec le fournisseur choisi. Respectez ses conditions et la loi. Le choix d’une destination appropriée et la protection de la clé API vous incombent.
+183|Confidentialité, aide et remboursements
+184|Consultez notre
+185|politique de confidentialité
+186|pour les données et autorisations. Consultez aussi
+187|l’assistance
+188|pour résoudre les problèmes. Apple traite les achats ; les remboursements suivent ses procédures et les droits des consommateurs applicables.

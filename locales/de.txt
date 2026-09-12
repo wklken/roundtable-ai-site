@@ -1,0 +1,174 @@
+0|RoundTable AI — Mehr Perspektiven für deine nächste Entscheidung.
+1|Zum Inhalt springen
+3|So funktioniert’s
+4|Datenschutz
+5|Bald für Mac
+6|RoundTable AI für Mac
+7|Mehr Perspektiven.
+8|Ein klarer nächster Schritt.
+9|Bring deine Frage mit. Verschiedene KI-Perspektiven
+10|denken gemeinsam weiter. Du entscheidest, was folgt.
+11|Entdecke den Ablauf
+13|Eine echte Diskussion in RoundTable AI. Vorschau der Oberfläche.
+14|Raum für einen anderen Blickwinkel.
+15|Manche Fragen verdienen
+16|mehr als eine schnelle Antwort.
+17|Jetzt starten oder weiter verfeinern? Kurs halten oder Neues versuchen? RoundTable AI gibt deiner Frage Raum: Perspektiven bauen aufeinander auf, und eine Moderation führt die Diskussion zusammen.
+18|Von einer Frage zu einer Richtung.
+19|Deine Gedanken
+20|nehmen Gestalt an.
+21|Verfolge ein Beispiel von der ersten Frage bis zum nächsten Schritt.
+23|Beginne mit deiner Frage.
+24|Ergänze den Kontext, der dir wichtig ist.
+26|Öffne die Diskussion.
+27|Betrachte dieselbe Idee aus verschiedenen Perspektiven.
+29|Finde deinen nächsten Schritt.
+30|Aus der Diskussion wird ein Entscheidungsbericht.
+31|Ein Nebenprojekt. Eine echte Entscheidung.
+32|Beispiel zur Veranschaulichung
+34|Einen Pilotversuch starten.
+35|Oder weiter verfeinern?
+36|Ein funktionierender Prototyp. Sechs Stunden pro Woche.
+37|Drei Personen wollen ihn ausprobieren.
+38|Soll ich jetzt einen kleinen Pilotversuch starten oder noch einen Monat an den Details arbeiten?
+40|Deine Frage, dein Kontext, deine Prioritäten.
+42|Die Macherperspektive
+43|Ein kleiner Pilotversuch kann zeigen, was ein weiterer Monat Feinschliff nicht verrät: Wird das Produkt genutzt?
+45|Die skeptische Perspektive
+46|Nur wenn der Kernablauf schon funktioniert. Was genau sollen die drei Testpersonen abschließen?
+48|Die pragmatische Perspektive
+49|Definiere eine Handlung, begrenze die Zeit und lege vorab fest, wann du aufhörst.
+50|Beispielhafte KI-Perspektiven. Spätere Beiträge reagieren auf frühere Ideen.
+52|Entscheidungsbericht
+53|Prüfe den Kern.
+54|Entscheide danach.
+55|Zwei Wochen testen und dabei lernen.
+56|Ausprobieren
+57|Lade drei Personen ein, eine zentrale Handlung auszuführen.
+58|Beobachten
+59|Schaffen sie es? Kommen sie von sich aus zurück?
+60|Überdenken
+61|Bei schwachen Signalen: erst nachfragen, dann weiterbauen.
+62|Beispielhafte Zusammenfassung. Die Entscheidung bleibt bei dir.
+63|Was könnte klappen?
+64|Was übersehen wir?
+65|Was zählt am meisten?
+66|Deine
+67|Frage.
+68|Andere Blickwinkel. Ein gemeinsames Gespräch.
+69|Ideen treffen sich.
+70|Blinde Flecken werden sichtbar.
+71|Jede Perspektive sieht die bisherigen Beiträge. Sie kann Annahmen hinterfragen, Einsichten vertiefen oder einen anderen Weg vorschlagen.
+72|Die Moderation ordnet Gemeinsamkeiten, Einwände und offene Beweisfragen. Pausiere, ergänze Kontext und setze die Diskussion mit neuen Gedanken fort.
+73|KI-Perspektiven können dieselben Verzerrungen und Fehler haben. Sie sind keine unabhängigen menschlichen Fachleute.
+74|Etwas, das bleibt.
+75|Ein nächster Schritt.
+76|Und die Gründe
+77|dafür.
+78|Dein Entscheidungsbericht bringt Klarheit: Was zählt, wo Meinungen auseinandergehen und was du als Nächstes versuchen kannst.
+79|Lies die Begründung erneut, führe die Diskussion weiter und exportiere den Bericht zum Teilen als Markdown.
+80|Ein kleines,
+81|bewusstes Experiment.
+82|Starte einen zweiwöchigen Pilotversuch, wenn der Kern bereits funktioniert. Lernen kommt vor optischem Feinschliff.
+83|Was zählt
+84|Nützliches Feedback innerhalb deiner sechs Stunden pro Woche.
+85|Der stärkste Einwand
+86|Eine kleine Gruppe liefert womöglich zu wenig Erkenntnisse. Wähle Personen, die ehrliches Feedback geben.
+87|Die nächsten Schritte
+88|Wähle eine zentrale Handlung zur Beobachtung.
+89|Begrenze den Versuch auf insgesamt zwölf Arbeitsstunden.
+90|Prüfe Abschlüsse und eigenständige Rückkehr.
+91|Beispielhafter Berichtsauszug, keine Ergebnisgarantie.
+92|Persönliche Gedanken. Eigene Kontrolle.
+93|Dein Mac.
+94|Deine Modelle.
+95|Deine Entscheidung.
+96|Dein Verlauf bleibt bei dir.
+97|Diskussionen und Berichte werden lokal auf deinem Mac gespeichert. Kein RoundTable-AI-Konto und keine Cloud-Synchronisierung nötig.
+98|Verbinde dein Wunschmodell.
+99|Nutze deinen API-Schlüssel eines kompatiblen Anbieters oder einen unterstützten lokalen Endpunkt. Modellnutzung wird vom Anbieter separat berechnet.
+100|Du erlaubst die Verbindung.
+101|Erst mit deiner Erlaubnis gehen KI-Anfragen direkt an den gewählten Endpunkt. Prüfe oder widerrufe die Erlaubnis in den Einstellungen. Die Datenrichtlinien des Anbieters gelten.
+102|Datenschutzerklärung lesen
+104|Deine nächste Entscheidung.
+105|Gut durchdacht.
+106|Fünf abgeschlossene Diskussionen gratis.
+107|Ein Kauf. Unbegrenzte Diskussionen.
+109|Dauerhafte Freischaltung · Kein wiederkehrendes Abo
+110|Bald im Mac App Store
+111|Noch nicht zum Download verfügbar. Erfordert macOS 15 oder neuer.
+112|US-Basispreis. Regionale Preise und Steuern können abweichen.
+113|Eigener API-Schlüssel erforderlich. KI-Anbieterkosten fallen separat an.
+114|Gut zu wissen.
+115|Was unterscheidet dies von einer einzelnen KI-Antwort?
+116|Deine Frage wird zur moderierten Diskussion. Perspektiven wechseln sich ab, lesen frühere Beiträge und prüfen Vor- und Nachteile. Danach erstellt die Moderation einen Entscheidungsbericht. Mehrere Perspektiven garantieren keine Richtigkeit. Prüfe wichtige Informationen.
+117|Ist die KI-Nutzung im Kauf enthalten?
+118|Nein. Der einmalige Kauf schaltet unbegrenzte Diskussionen in der App frei. Du stellst eine kompatible Modellverbindung bereit; der Anbieter berechnet die Nutzung separat.
+119|Was passiert nach den fünf kostenlosen Diskussionen?
+120|Der optionale Einmalkauf ermöglicht weitere Diskussionen. Vorhandener Verlauf und Markdown-Export bleiben auch ohne Kauf verfügbar. Eine Diskussion zählt beim ersten gespeicherten Bericht einmal; ihre Fortsetzung verbraucht keine weitere freie Nutzung.
+121|Kann ich damit wichtige Entscheidungen treffen?
+122|Nutze die App, um Gedanken zu ordnen und wichtige Fragen zu finden. KI kann falsch oder voreingenommen sein. Prüfe wichtige Aussagen und hole bei Bedarf qualifizierten fachlichen Rat ein. Die endgültige Entscheidung triffst du.
+123|Hilfe
+124|Datenschutzerklärung
+125|Nutzungsbedingungen
+126|Kontakt
+127|© 2026 Kunliang Wu. Alle Rechte vorbehalten.
+128|KI-Perspektiven unterstützen dein Denken. Sie ersetzen nicht dein Urteil.
+129|Hilfe — RoundTable AI
+130|Bedingungen
+131|RoundTable AI · macOS
+132|Beginne mit einer Frage. Ergänze Kontext, wähle Perspektiven und verfolge Diskussion und Entscheidungsbericht.
+133|Modell verbinden
+134|Öffne Einstellungen → Modelle. Ergänze kompatiblen Anbieter, Endpunkt, API-Schlüssel und Modell. Lies vor Tests oder Generierung den Hinweis zur KI-Datenweitergabe und erlaube die Verbindung. Der Anbieter berechnet Modellnutzung getrennt vom App-Kauf.
+135|Anfrage schlägt fehl oder hängt
+136|Prüfe Endpunkt, Modell, API-Schlüssel, Guthaben und Netzwerk. Bei zuvor verweigerter oder widerrufener Erlaubnis prüfe Einstellungen → Modelle. Pausiere vor Kontextänderungen und setze danach fort. Anbieterausfälle oder Ratenbegrenzungen können die Generierung unterbrechen.
+137|Dauerhaften Zugriff wiederherstellen
+138|Öffne Einstellungen → Dauerhafte Freischaltung und wähle Käufe wiederherstellen. Verwende den Apple Account des Kaufs. Die App prüft Käufe mit StoreKit. Erstattete oder widerrufene Käufe gewähren keine unbegrenzten Diskussionen mehr.
+139|Kostenlose Diskussionen und Verlauf
+140|Fünf abgeschlossene Diskussionen sind kostenlos. Jede zählt beim ersten gespeicherten Bericht einmal; Fortsetzungen verbrauchen keine weitere Nutzung. Verlauf und Markdown-Export bleiben ohne Kauf verfügbar.
+141|Support kontaktieren
+142|Schreibe an
+144|für Hilfe zur App.
+145|Nenne macOS-Version, App-Version, erwartetes Verhalten und Fehlermeldung. Entferne API-Schlüssel, Passwörter und private Gesprächsinhalte aus Bildern oder Protokollen.
+146|© 2026 Kunliang Wu ·
+148|Datenschutzerklärung — RoundTable AI
+149|Der Diskussionsverlauf bleibt auf deinem Mac. Mit deiner Erlaubnis gehen KI-Anfragen direkt an die gewählte Modellverbindung.
+150|Stand: 12. September 2026. Diese Richtlinie beschreibt die macOS-App RoundTable AI von Kunliang Wu.
+151|Lokal gespeicherte Daten
+152|Die App speichert Gespräche, Berichte, Experteneinstellungen, Modellverbindungen und Präferenzen lokal. Sie bietet kein App-Konto oder Cloud-Synchronisierung. API-Schlüssel werden lokal verschlüsselt; der Verschlüsselungsschlüssel liegt auf demselben Mac. Der gesamte Gesprächsverlauf wird dadurch nicht verschlüsselt. Schütze Mac und Backups entsprechend.
+153|Daten in KI-Anfragen
+154|Nach deiner Erlaubnis sendet die App Informationen zur Modellerkennung und Generierung direkt zum Endpunkt. Dazu können Frage, Hintergrund, Gesprächsverlauf, frühere Modellantworten, Expertenanweisungen und Modelleinstellungen gehören. Der API-Schlüssel dient der Authentifizierung. Der Anbieter erhält auch übliche Verbindungsdaten wie deine IP-Adresse. Spätere Sprecher können frühere Beiträge als Kontext erhalten.
+155|Die Erlaubnisansicht nennt Verbindung und Endpunkt. Du wählst den Anbieter, auch kompatible lokale Endpunkte, sofern unterstützt. Der Entwickler betreibt dafür keinen Proxy und erhält Gespräche oder Schlüssel nicht über ein App-Backend.
+156|Verarbeitung durch deinen Anbieter
+157|Anbieter verarbeiten nach ihren eigenen Bedingungen und Datenschutzrichtlinien. Speicherung, Trainingsnutzung, Kontozuordnung und Verarbeitungsländer hängen von Anbieter, Endpunkt und Kontoeinstellungen ab. Die App garantiert keine Nullspeicherung und verhindert nicht die Aufbewahrung bereits empfangener Daten. Prüfe die Anbieterregeln vor dem Senden persönlicher oder vertraulicher Informationen.
+158|Deine Möglichkeiten
+159|Du kannst die KI-Erlaubnis verweigern, unter Einstellungen → Modelle prüfen oder für zukünftige Anfragen widerrufen. Ein Widerruf macht abgeschlossene Übertragungen nicht rückgängig und holt laufende Anfragen nicht zurück. Berichte lassen sich exportieren, lokale Gespräche löschen. Entferne unnötige Exporte und Backups separat. Wende dich wegen beim Anbieter gespeicherter Daten an diesen.
+160|Käufe
+161|Apple verarbeitet Käufe und Zahlungen. Die App liest verifizierte StoreKit-Transaktions- und Berechtigungsdaten, um Funktionen freizuschalten oder wiederherzustellen. Der Entwickler erhält keine Zahlungskartendaten über die App. Für Apples Dienste gilt Apples Datenschutzrichtlinie.
+162|Weitere Netzwerkaktivität
+163|Anbietersymbole können von GitHub heruntergeladen und lokal zwischengespeichert werden. Dabei erhält der Hostingdienst übliche Netzwerkdaten, aber keine API-Schlüssel oder Diskussionstexte. Externe Links öffnen sich im Browser. Die App enthält keine Werbung oder Analyse-SDKs Dritter.
+164|Support und diese Website
+165|Bei Supportanfragen erhält der Entwickler deine Nachricht und freiwillig mitgeteilte Kontaktdaten zur Bearbeitung. Sende keine API-Schlüssel oder Passwörter. Diese Website enthält keine Werbung, Analyseskripte oder Gesprächs-Uploadformulare. Der Hostingdienst verarbeitet normale Netzwerkanfragen für die Seitenauslieferung. Deine Sprachwahl wird in diesem Browser für spätere Besuche gespeichert.
+166|Kontakt und Änderungen
+167|für Datenschutzfragen oder Anfragen.
+168|Kontaktiere den Entwickler bei Anliegen zur Supportkorrespondenz. Bei Änderungen der App-Praktiken aktualisieren wir diese Seite samt Datum.
+169|Nutzungsbedingungen — RoundTable AI
+170|Ein Werkzeug für deine Gedanken, mit deiner eigenen Modellverbindung.
+171|Stand: 12. September 2026. RoundTable AI wird von Kunliang Wu bereitgestellt.
+172|Lizenz
+173|Die App wird lizenziert unter
+174|Apples Standard-Endbenutzer-Lizenzvertrag
+175|. Diese Produkthinweise erläutern App und Kauf. Sie ersetzen den Vertrag nicht und schränken deine gesetzlichen Verbraucherrechte nicht ein.
+176|Dauerhafte Freischaltung
+177|Fünf abgeschlossene Diskussionen sind gratis. Ein optionaler einmaliger, nicht verbrauchbarer Kauf schaltet unbegrenzte Diskussionen frei. Es ist kein wiederkehrendes Abo. Vor dem Kauf zeigt der App Store regionale Preise und Steuern. Stelle den Kauf mit demselben Apple Account wieder her. Erstattung oder Widerruf entzieht die bezahlte Berechtigung.
+178|Enthalten sind weder Modellguthaben noch ein gehosteter KI-Dienst oder eine Garantie für die Verfügbarkeit Dritter. Du stellst nötige API-Schlüssel bereit und zahlst Anbieterkosten separat. Verlauf und Markdown-Export bleiben ohne Freischaltung verfügbar.
+179|KI-Ausgaben und Entscheidungen
+180|Perspektiven und Moderationsberichte stammen von KI, nicht von unabhängigen menschlichen Fachleuten. Sie können Fehler, unbelegte Annahmen und gemeinsame Verzerrungen enthalten. Prüfe Wichtiges und entscheide selbst. Die App ersetzt keine qualifizierte medizinische, rechtliche, finanzielle oder andere Fachberatung und ist kein Notfalldienst.
+181|Deine Inhalte und Verbindungen
+182|Du behältst deine Rechte an bereitgestellten Inhalten. Übermittle nur Inhalte, die du nutzen und mit dem gewählten Anbieter teilen darfst. Beachte Anbieterbedingungen und geltendes Recht. Du bist für einen geeigneten Endpunkt und den Schutz deines API-Schlüssels verantwortlich.
+183|Datenschutz, Hilfe und Erstattungen
+184|Lies unsere
+185|Datenschutzerklärung
+186|zur Datenverarbeitung und Erlaubnisverwaltung. Besuche die
+187|Hilfe
+188|bei Problemen. Apple verarbeitet Käufe; Erstattungen richten sich nach Apples Verfahren und geltenden Verbraucherrechten.

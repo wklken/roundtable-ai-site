@@ -19,7 +19,7 @@ page('privacy','Privacy policy','''<p class="lead">Your discussion history stays
 <h2>Your choices</h2><p>You can decline AI permission, review it in Settings → Models, or revoke it to prevent future requests. Revocation does not undo completed transfers or recall an in-flight request. You can export reports and delete local conversations using the app. Separately remove exported files and backups you no longer need. Contact the provider for requests about data it retains.</p>
 <h2>Purchases</h2><p>Apple processes purchases and payments. The app reads verified StoreKit transaction and entitlement information to unlock or restore features. The developer does not receive your payment-card information through the app. Apple's own privacy policy applies to its services.</p>
 <h2>Other network activity</h2><p>Provider icons may be downloaded from GitHub and cached locally. Those requests disclose ordinary network information to the hosting service; they do not include your API keys or discussion text. Opening external links uses your browser. The app contains no advertising or third-party analytics SDK.</p>
-<h2>Support and this website</h2><p>If you contact support, the developer receives the message and the contact details you choose to provide, for handling your request. Do not send API keys or passwords. This website has no advertising, analytics scripts or conversation-upload form. Its hosting service processes ordinary network requests to serve the pages.</p>
+<h2>Support and this website</h2><p>If you contact support, the developer receives the message and the contact details you choose to provide, for handling your request. Do not send API keys or passwords. This website has no advertising, analytics scripts or conversation-upload form. Its hosting service processes ordinary network requests to serve the pages. Your language choice is stored in this browser so the website can remember it.</p>
 <h2>Contact and updates</h2><p>Email <a href="mailto:wklken@gmail.com">wklken@gmail.com</a> for privacy questions or requests.</p><p>Contact the developer for questions or requests concerning support correspondence. We will update this page when app practices change, with the revision date above.</p>''')
 page('terms','Terms of use','''<p class="lead">A tool to support your thinking, using your own model connection.</p><p>Last updated: September 12, 2026. RoundTable AI is provided by Kunliang Wu.</p>
 <h2>License</h2><p>The app is licensed under <a href="https://www.apple.com/legal/internet-services/itunes/dev/stdeula/">Apple's Standard End User License Agreement</a>. These product notes explain how the app and purchase work; they do not replace that agreement or limit rights you have under applicable consumer law.</p>
@@ -41,3 +41,8 @@ copy2(source/'assets'/'pilot-discussion.jpg', root/'assets'/'pilot-discussion.jp
 (root/'.nojekyll').touch()
 
 copy2(source/'assets'/'app-icon.png', root/'assets'/'app-icon.png')
+
+for filename in ["site.css", "language.js"]:
+ copy2(source/filename, root/filename)
+from localize import build
+build()
