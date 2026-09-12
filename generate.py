@@ -39,3 +39,5 @@ copy2(source/'landing.html', root/'index.html')
 (root/'assets').mkdir(exist_ok=True)
 copy2(source/'assets'/'pilot-discussion.jpg', root/'assets'/'pilot-discussion.jpg')
 (root/'.nojekyll').touch()
+
+copy2(source/'assets'/'app-icon.png', root/'assets'/'app-icon.png')
