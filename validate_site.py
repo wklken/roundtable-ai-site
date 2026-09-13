@@ -33,7 +33,7 @@ for path in ROOT.rglob('*.html'):
  page = Page(path)
  page.feed(path.read_text())
  pages[path.resolve()] = page
-assert len(pages) == 28, len(pages)
+assert len(pages) == len(LANGUAGES) * 4, len(pages)
 for path, page in pages.items():
  relative = path.relative_to(ROOT.resolve())
  expected_lang = relative.parts[0] if relative.parts[0] in LANGUAGES else 'en'
@@ -54,4 +54,4 @@ for path, page in pages.items():
   if parts.fragment:
    assert parts.fragment in pages[target.resolve()].ids, (path, link, 'missing anchor')
 assert (ROOT/'assets/pilot-discussion.jpg').read_bytes() == (ROOT.parent/'assets/pilot-discussion.jpg').read_bytes()
-print('PASS: 28 pages, 7 languages, selected locale, internal links/assets, anchors and ARIA references; screenshot unchanged.')
+print(f'PASS: {len(pages)} pages, {len(LANGUAGES)} languages, selected locale, internal links/assets, anchors and ARIA references; screenshot unchanged.')

@@ -8,12 +8,13 @@ SOURCE = Path(__file__).parent
 ROOT = SOURCE / 'docs'
 BASE = '/roundtable-ai-site/'
 ORIGIN = 'https://wklken.me'
-LANGUAGES = {'en': 'English', 'zh-Hans': '简体中文', 'ja': '日本語', 'ko': '한국어', 'de': 'Deutsch', 'fr': 'Français', 'es': 'Español'}
+LANGUAGES = {'en': 'English', 'zh-Hans': '简体中文', 'zh-Hant': '繁體中文', 'ja': '日本語', 'ko': '한국어', 'de': 'Deutsch', 'fr': 'Français', 'es': 'Español'}
 # Brand names, numbers, speaker initials and symbols do not require translation.
 INVARIANT = {2, 12, 22, 25, 28, 33, 39, 41, 44, 47, 51, 103, 108, 143, 147}
 LABELS = {
  'en': ['Language', 'Main navigation', 'Little Roundtable home', 'Discussion stages', 'Illustrative decision report', 'Little Roundtable app icon'],
  'zh-Hans': ['语言', '主导航', 'Little Roundtable 首页', '讨论阶段', '决策报告示例', 'Little Roundtable 应用图标'],
+ 'zh-Hant': ['語言', '主要導覽', 'Little Roundtable 首頁', '討論階段', '決策報告範例', 'Little Roundtable App 圖示'],
  'ja': ['言語', 'メインナビゲーション', 'Little Roundtable ホーム', '議論の段階', '意思決定レポートの例', 'Little Roundtable アプリアイコン'],
  'ko': ['언어', '주 탐색', 'Little Roundtable 홈', '토론 단계', '의사결정 보고서 예시', 'Little Roundtable 앱 아이콘'],
  'de': ['Sprache', 'Hauptnavigation', 'Little Roundtable Startseite', 'Diskussionsphasen', 'Beispielhafter Entscheidungsbericht', 'Little Roundtable App-Symbol'],
@@ -123,7 +124,7 @@ def build():
    folder = ROOT / (lang if lang != 'en' else '') / route
    folder.mkdir(parents=True, exist_ok=True)
    (folder / 'index.html').write_text(''.join(parser.output))
- print('Built 28 pages in 7 languages; all translation keys present.')
+ print(f'Built {len(pages) * len(LANGUAGES)} pages in {len(LANGUAGES)} languages; all translation keys present.')
 
 if __name__ == '__main__':
  build()
