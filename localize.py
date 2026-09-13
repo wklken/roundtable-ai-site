@@ -8,7 +8,7 @@ SOURCE = Path(__file__).parent
 ROOT = SOURCE / 'docs'
 BASE = '/roundtable-ai-site/'
 ORIGIN = 'https://wklken.me'
-LANGUAGES = {'en': 'English', 'zh-Hans': '简体中文', 'zh-Hant': '繁體中文', 'ja': '日本語', 'ko': '한국어', 'de': 'Deutsch', 'fr': 'Français', 'es': 'Español'}
+LANGUAGES = {'en': 'English', 'zh-Hans': '简体中文', 'zh-Hant': '繁體中文', 'ja': '日本語', 'ko': '한국어', 'de': 'Deutsch', 'fr': 'Français', 'es': 'Español', 'pt-BR': 'Português (Brasil)'}
 # Brand names, numbers, speaker initials and symbols do not require translation.
 INVARIANT = {2, 12, 22, 25, 28, 33, 39, 41, 44, 47, 51, 103, 108, 143, 147}
 LABELS = {
@@ -19,6 +19,7 @@ LABELS = {
  'ko': ['언어', '주 탐색', 'Little Roundtable 홈', '토론 단계', '의사결정 보고서 예시', 'Little Roundtable 앱 아이콘'],
  'de': ['Sprache', 'Hauptnavigation', 'Little Roundtable Startseite', 'Diskussionsphasen', 'Beispielhafter Entscheidungsbericht', 'Little Roundtable App-Symbol'],
  'fr': ['Langue', 'Navigation principale', 'Accueil Little Roundtable', 'Étapes de discussion', 'Exemple de rapport de décision', 'Icône de Little Roundtable'],
+ 'pt-BR': ['Idioma', 'Navegação principal', 'Página inicial do Little Roundtable', 'Etapas da discussão', 'Relatório de decisão ilustrativo', 'Ícone do aplicativo Little Roundtable'],
  'es': ['Idioma', 'Navegación principal', 'Inicio de Little Roundtable', 'Etapas de la conversación', 'Ejemplo de informe de decisión', 'Icono de Little Roundtable'],
 }
 

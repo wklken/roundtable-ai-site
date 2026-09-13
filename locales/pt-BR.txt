@@ -1,0 +1,174 @@
+0|Little Roundtable — Mais perspectivas para sua próxima decisão.
+1|Ir para o conteúdo
+3|Experiência
+4|Privacidade
+5|Em breve no Mac
+6|Little Roundtable para Mac
+7|Sua pergunta. Diferentes perspectivas.
+8|Um caminho mais claro.
+9|Traga uma pergunta. Deixe diferentes perspectivas de IA
+10|pensarem juntas. Decida o que vem a seguir.
+11|Explore a experiência
+13|Uma discussão real no Little Roundtable. Interface de prévia.
+14|Abra espaço para outro ponto de vista.
+15|Algumas perguntas merecem
+16|mais do que uma resposta rápida.
+17|Lançar agora ou continuar refinando? Manter o rumo ou tentar algo novo? O Little Roundtable dá espaço para sua pergunta se desenvolver, com perspectivas que se complementam e um moderador que reúne as ideias.
+18|De uma pergunta a um rumo.
+19|Veja seu raciocínio
+20|ganhar forma.
+21|Acompanhe um exemplo, da primeira pergunta ao próximo passo.
+23|Comece de onde você está.
+24|Faça sua pergunta. Acrescente o que importa para você.
+26|Amplie a discussão.
+27|Deixe diferentes perspectivas questionarem a mesma ideia.
+29|Encontre seu próximo passo.
+30|Transforme a conversa em um relatório de decisão.
+31|Um projeto paralelo. Uma decisão real.
+32|Exemplo ilustrativo
+34|Lançar um piloto.
+35|Ou continuar aprimorando?
+36|Um protótipo funcional. Seis horas por semana.
+37|Três pessoas dispostas a experimentar.
+38|Devo lançar um pequeno piloto agora ou passar mais um mês aprimorando?
+40|Sua pergunta, seu contexto, suas prioridades.
+42|Quem constrói
+43|Um pequeno piloto pode revelar o que mais um mês de ajustes não revela: se as pessoas vão usar.
+45|Quem questiona
+46|Só se o fluxo principal já funcionar. O que esses três participantes precisam concluir, exatamente?
+48|Quem põe em prática
+49|Defina uma ação, limite o tempo e estabeleça quando parar antes de lançar.
+50|Perspectivas de IA ilustrativas. As falas seguintes respondem às ideias anteriores.
+52|Relatório de decisão
+53|Teste o essencial.
+54|Depois decida.
+55|Um piloto de duas semanas, focado em aprender.
+56|Experimente
+57|Convide três participantes para concluir uma ação principal.
+58|Observe
+59|Eles conseguem concluir? Voltam por conta própria?
+60|Reconsidere
+61|Se o sinal for fraco, converse com eles antes de construir mais.
+62|Resumo ilustrativo. A decisão continua sendo sua.
+63|O que pode funcionar?
+64|O que estamos deixando passar?
+65|O que mais importa?
+66|Sua
+67|pergunta.
+68|Diferentes ângulos. Uma conversa em comum.
+69|Ideias se encontram.
+70|Pontos cegos aparecem.
+71|Cada perspectiva vê o que veio antes. Pode questionar uma premissa, desenvolver uma ideia ou sugerir outro caminho.
+72|O moderador destaca acordos, objeções e o que ainda precisa de evidências. Você pode pausar, adicionar contexto e continuar conforme seu raciocínio muda.
+73|Perspectivas de IA podem compartilhar vieses e cometer erros. Não são especialistas humanos independentes.
+74|Algo para levar com você.
+75|Saia com
+76|um próximo passo.
+77|E o porquê.
+78|Seu relatório de decisão organiza a conversa: o que importa, onde as opiniões divergem e o que experimentar a seguir.
+79|Reveja o raciocínio. Continue a discussão. Exporte o relatório em Markdown quando quiser compartilhar.
+80|Faça disso um experimento pequeno
+81|e intencional.
+82|Lance um piloto de duas semanas se a experiência principal já funcionar. Priorize o aprendizado antes do refinamento visual.
+83|O que importa
+84|Feedback útil, dentro das seis horas disponíveis por semana.
+85|A objeção mais forte
+86|Um grupo pequeno pode não revelar o suficiente. Escolha participantes que deem feedback sincero.
+87|O que fazer a seguir
+88|Escolha uma ação principal para observar.
+89|Defina um limite de doze horas para o piloto.
+90|Avalie a conclusão e o retorno espontâneo.
+91|Trecho ilustrativo de relatório, não uma promessa de resultado.
+92|Pensamento pessoal. Controle pessoal.
+93|Seu Mac.
+94|Seus modelos.
+95|Sua decisão.
+96|O histórico fica por perto.
+97|Suas discussões e relatórios ficam armazenados localmente no Mac. Sem conta do Little Roundtable nem sincronização na nuvem para configurar.
+98|Conecte o modelo que escolher.
+99|Use sua própria chave de API de um provedor compatível ou um endpoint local compatível. O uso do modelo é cobrado separadamente pelo provedor.
+100|Você decide o que se conecta.
+101|As solicitações de IA vão diretamente ao endpoint escolhido após sua permissão. Revise ou revogue essa permissão nas Configurações. Aplicam-se as políticas de dados do provedor.
+102|Leia a política de privacidade
+104|Sua próxima decisão.
+105|Bem pensada.
+106|Compra única.
+107|Discussões ilimitadas com acesso vitalício.
+109|Desbloqueio vitalício · Sem assinatura recorrente
+110|Em breve na Mac App Store
+111|Ainda não disponível para download. Requer macOS 15 ou posterior.
+112|Preço-base dos EUA. Preços e impostos locais podem variar.
+113|Use sua própria chave de API. As cobranças do provedor de IA são separadas.
+114|Algumas coisas para saber.
+115|Qual a diferença em relação a uma única resposta de IA?
+116|Sua pergunta se torna uma discussão moderada. As perspectivas falam em turnos, leem contribuições anteriores e exploram as concessões antes de o moderador produzir um relatório de decisão. Várias perspectivas não garantem precisão: verifique informações importantes.
+117|O desbloqueio vitalício inclui o uso de IA?
+118|Não. A compra única libera discussões ilimitadas no aplicativo. Você fornece sua própria conexão de modelo compatível, e o provedor cobra o uso separadamente.
+119|É uma assinatura?
+120|Não. O acesso vitalício é uma compra única, não uma assinatura recorrente. O uso do provedor de IA é cobrado separadamente.
+121|Posso usar para decisões importantes?
+122|Use para organizar seu raciocínio e encontrar perguntas que valem a pena fazer. A IA pode errar ou apresentar vieses. Verifique afirmações importantes e procure orientação profissional qualificada quando necessário. Você toma a decisão final.
+123|Suporte
+124|Política de privacidade
+125|Termos de uso
+126|Contato
+127|© 2026 Kunliang Wu. Todos os direitos reservados.
+128|Perspectivas geradas por IA apoiam seu raciocínio. Não substituem seu julgamento.
+129|Suporte — Little Roundtable
+130|Termos
+131|LITTLE ROUNDTABLE · MACOS
+132|Comece com uma pergunta. Adicione contexto, escolha perspectivas e acompanhe a discussão e o relatório de decisão.
+133|Conecte seu modelo
+134|Abra Configurações → Modelos. Adicione um provedor compatível, endpoint, chave de API e modelo. Leia o aviso de compartilhamento de dados com IA e permita a conexão antes de testar ou gerar. O provedor cobra o uso do modelo separadamente da compra do aplicativo.
+135|Uma solicitação falha ou trava
+136|Verifique o endpoint, modelo selecionado, chave de API, saldo do provedor e conexão de rede. Revise a permissão de IA em Configurações → Modelos caso tenha recusado ou revogado antes. Pause uma discussão antes de mudar o contexto e continue quando estiver pronto. Uma falha no provedor ou limite de solicitações pode interromper a geração.
+137|Restaure o acesso vitalício
+138|Abra Configurações → Desbloqueio vitalício e escolha Restaurar compras. Use a Conta Apple que fez a compra. O aplicativo verifica a compra com o StoreKit. Uma compra reembolsada ou revogada não concede mais discussões ilimitadas.
+139|Discussões e histórico
+140|O acesso vitalício libera discussões ilimitadas. Você pode revisitar o histórico e exportar relatórios em Markdown.
+141|Fale com o suporte
+142|Envie um e-mail para
+144|para obter suporte ao aplicativo.
+145|Inclua a versão do macOS, a versão do aplicativo, o que esperava e a mensagem de erro. Remova chaves de API, senhas e conteúdo privado de conversas de capturas de tela ou registros.
+146|© 2026 Kunliang Wu ·
+148|Política de privacidade — Little Roundtable
+149|O histórico de discussões fica no seu Mac. As solicitações de IA vão diretamente à conexão de modelo escolhida, após sua permissão.
+150|Última atualização: 12 de setembro de 2026. Esta política descreve o aplicativo Little Roundtable para macOS, fornecido por Kunliang Wu.
+151|Dados armazenados no Mac
+152|O aplicativo armazena localmente conversas, relatórios gerados, configurações de especialistas, conexões de modelos e preferências. Não oferece conta própria nem serviço de sincronização na nuvem. As chaves de API são criptografadas localmente, com a chave de criptografia no mesmo Mac. Isso não criptografa todo o histórico de conversas; proteja seu Mac e backups adequadamente.
+153|Dados enviados em solicitações de IA
+154|Ao permitir uma conexão, o aplicativo envia diretamente ao endpoint as informações necessárias para descobrir modelos e gerar conteúdo. Isso pode incluir sua pergunta, contexto fornecido, histórico, respostas anteriores, instruções dos especialistas e configurações do modelo. A chave de API é enviada para autenticação. O provedor também recebe informações comuns de conexão, como seu endereço IP. Participantes posteriores podem receber conteúdo anterior para responder com contexto.
+155|A tela de consentimento identifica a conexão e o endpoint. Você escolhe o provedor, inclusive um endpoint local compatível quando disponível. O desenvolvedor não opera um proxy para essas solicitações nem recebe suas conversas ou chaves por um servidor do aplicativo.
+156|Processamento pelo provedor
+157|Os provedores processam solicitações conforme seus próprios termos e políticas de privacidade. Retenção, uso em treinamento, associação a contas e países de processamento dependem do provedor, endpoint e configurações da conta. O aplicativo não promete retenção zero nem impede que um provedor guarde dados já recebidos. Leia a política do provedor antes de enviar informações pessoais ou confidenciais.
+158|Suas escolhas
+159|Você pode recusar a permissão de IA, revisá-la em Configurações → Modelos ou revogá-la para impedir novas solicitações. A revogação não desfaz transferências concluídas nem recolhe uma solicitação em andamento. Você pode exportar relatórios e excluir conversas locais no aplicativo. Remova separadamente arquivos exportados e backups de que não precisa mais. Contate o provedor sobre os dados que ele retém.
+160|Compras
+161|A Apple processa compras e pagamentos. O aplicativo lê informações verificadas de transações e direitos de acesso do StoreKit para liberar ou restaurar recursos. O desenvolvedor não recebe dados do cartão de pagamento pelo aplicativo. A política de privacidade da Apple se aplica aos serviços dela.
+162|Outras atividades de rede
+163|Ícones de provedores podem ser baixados do GitHub e armazenados em cache local. Essas solicitações revelam informações comuns de rede ao serviço de hospedagem; não incluem chaves de API nem textos das discussões. Links externos são abertos no navegador. O aplicativo não contém publicidade nem SDK de análise de terceiros.
+164|Suporte e este site
+165|Se você contatar o suporte, o desenvolvedor recebe a mensagem e os dados de contato que escolher fornecer para atender à solicitação. Não envie chaves de API ou senhas. Este site não tem publicidade, scripts de análise nem formulário para enviar conversas. A hospedagem processa solicitações comuns de rede para exibir as páginas. Sua escolha de idioma é salva neste navegador para que o site se lembre dela.
+166|Contato e atualizações
+167|para perguntas ou solicitações sobre privacidade.
+168|Contate o desenvolvedor para perguntas ou solicitações sobre correspondência com o suporte. Atualizaremos esta página quando as práticas do aplicativo mudarem, com a data de revisão acima.
+169|Termos de uso — Little Roundtable
+170|Uma ferramenta para apoiar seu raciocínio, usando sua própria conexão de modelo.
+171|Última atualização: 12 de setembro de 2026. Little Roundtable é fornecido por Kunliang Wu.
+172|Licença
+173|O aplicativo é licenciado sob o
+174|Contrato de Licença de Usuário Final Padrão da Apple
+175|. Estas notas explicam o funcionamento do aplicativo e da compra; não substituem esse contrato nem limitam seus direitos previstos na legislação de consumo aplicável.
+176|Desbloqueio vitalício
+177|Uma compra única e não consumível libera discussões ilimitadas no aplicativo. Não é uma assinatura recorrente. A App Store mostra o preço e os impostos aplicáveis à sua região antes da compra. Restaure a compra usando a mesma Conta Apple. Um reembolso ou revogação remove o direito ao acesso pago.
+178|O desbloqueio não inclui créditos de modelo, serviço de IA hospedado nem garantia de disponibilidade contínua de terceiros. Você fornece a chave de API necessária e paga as cobranças do provedor separadamente. O histórico e a exportação em Markdown continuam disponíveis sem o desbloqueio.
+179|Saídas de IA e suas decisões
+180|Perspectivas e relatórios do moderador são gerados por IA, não por especialistas humanos independentes. Podem conter erros, premissas sem fundamento ou vieses compartilhados. Verifique informações importantes e decida por conta própria. O aplicativo não substitui orientação médica, jurídica, financeira ou outra orientação profissional qualificada, nem é um serviço de emergência.
+181|Seu conteúdo e suas conexões
+182|Você mantém seus direitos sobre o conteúdo fornecido. Envie apenas conteúdo que tem direito de usar e compartilhar com o provedor escolhido. Siga os termos do provedor e a legislação aplicável. Você é responsável por escolher um endpoint adequado e proteger sua chave de API.
+183|Privacidade, suporte e reembolsos
+184|Leia nossa
+185|política de privacidade
+186|para entender o tratamento de dados e os controles de permissão. Consulte o
+187|suporte
+188|para resolver problemas. As compras são processadas pela Apple; pedidos de reembolso seguem o processo da Apple e os direitos do consumidor aplicáveis.
